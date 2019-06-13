@@ -1,4 +1,4 @@
-# vue-empty（一个vue+karma测试框架+ts语法的空白项目）
+# vue-empty（一个vue+karma unit测试框架+testcafe e2e测试框架+ts语法的空白项目）
 
 ## Project setup
 ```
